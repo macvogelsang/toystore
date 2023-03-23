@@ -2,6 +2,12 @@
 #
 # SPDX-License-Identifier: MIT
 
+[acetate]
+url = "https://github.com/ebeneliason/acetate"
+description = "A visual debugging suite for Playdate."
+author = "Eben Eliason <eben@gruntwork.io>"
+license = "MIT"
+
 [AnimatedSprite]
 url = "https://github.com/Whitebrim/AnimatedSprite"
 description = "Sprite class extension with imagetable animation and finite state machine support for Playdate."
@@ -35,6 +41,12 @@ license = "MIT"
 url = "https://github.com/DidierMalenfant/pdbase"
 description = "Handy utility functions and SDK additions."
 author = "Didier Malenfant <coding@malenfant.net>"
+license = "MIT"
+
+[pdParticles]
+url = "https://github.com/PossiblyAxolotl/pdParticles"
+description = "A free Playdate particle library."
+author = "PossiblyAxolotl <possiblyaxolotl@gmail.com>"
 license = "MIT"
 
 [playbox2d]
@@ -74,10 +86,4 @@ license = "MIT"
 url = "https://github.com/DidierMalenfant/TiledUp"
 description = "A Playdate toybox which lets you import and use Tiled levels."
 author = "Didier Malenfant <coding@malenfant.net>"
-license = "MIT"
-
-[pdParticles]
-url = "https://github.com/PossiblyAxolotl/pdParticles"
-description = "A free Playdate particle library."
-author = "PossiblyAxolotl <possiblyaxolotl@gmail.com>"
 license = "MIT"
