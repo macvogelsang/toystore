@@ -20,6 +20,12 @@ description = "A Simple Platformer ENgine for the Playdate."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[easy-pattern]
+url = "https://github.com/ebeneliason/easy-pattern"
+description = "Easy animated patterns for Playdate."
+author = "Eben Eliason <eben@gruntwork.io>"
+license = "MIT"
+
 [LDtkImporter]
 url = "https://github.com/NicMagnier/PlaydateLDtkImporter"
 description = "Load tilemaps created with LDtk in your playdate games."
