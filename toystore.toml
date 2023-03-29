@@ -61,6 +61,12 @@ description = "A port of box2d lite from Erin Catto (http://www.gphysics.com)."
 author = "Dustin Mierau <https://github.com/mierau>"
 license = "MIT"
 
+[playout]
+url = "https://github.com/potch/playout"
+description = "UI library and box model for Playdate."
+author = "potch <https://github.com/potch>"
+license = "BSD 3-Clause"
+
 [Plupdate]
 url = "https://github.com/DidierMalenfant/Plupdate"
 description = "The playdate.update() manager."
