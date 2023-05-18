@@ -73,6 +73,11 @@ description = "The playdate.update() manager."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[pplib]
+url = "https://github.com/RobertCurry0216/pp-lib"
+description = "A robust platformer library"
+author = "Robert Curry <https://github.com/RobertCurry0216>"
+
 [RobkohrFont]
 url = "https://github.com/RobKohr/robkohr-mono-5x8-font-for-playdate"
 description = "A 5x8 font that is readable & monospaced without it looking too boring."
@@ -100,7 +105,3 @@ description = "A Playdate toybox which lets you import and use Tiled levels."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
-[pplib]
-url = "https://github.com/RobertCurry0216/pp-lib"
-description = "A robust platformer library"
-author = "Robert Curry <https://github.com/RobertCurry0216>"
