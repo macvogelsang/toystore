@@ -99,3 +99,8 @@ url = "https://github.com/DidierMalenfant/TiledUp"
 description = "A Playdate toybox which lets you import and use Tiled levels."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
+
+[pplib]
+url = "https://github.com/RobertCurry0216/pp-lib"
+description = "A robust platformer library"
+author = "Robert Curry <https://github.com/RobertCurry0216>"
