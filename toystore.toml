@@ -43,6 +43,12 @@ description = "Amiga SoundTracker/ProTracker Module Player for Playdate."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[options]
+url = "https://github.com/macvogelsang/pd-options"
+description = "Robust and portable options menu for the Lua SDK"
+author = "Mac Vogelsang <macvogelsang.com>"
+license = "MIT"
+
 [pdbase]
 url = "https://github.com/DidierMalenfant/pdbase"
 description = "Handy utility functions and SDK additions."
