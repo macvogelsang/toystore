@@ -83,6 +83,11 @@ url = "https://github.com/RobKohr/robkohr-mono-5x8-font-for-playdate"
 description = "A 5x8 font that is readable & monospaced without it looking too boring."
 author = "Rob Kohr <spam@robkohr.com>"
 
+[roomy]
+url = "https://github.com/RobertCurry0216/roomy-playdate"
+description = "A stack based scene management library"
+author = "Robert Curry <https://github.com/RobertCurry0216>"
+
 [Sequence]
 url = "https://github.com/NicMagnier/PlaydateSequence"
 description = "Create animations with simple sequences of easing functions in your playdate game."
